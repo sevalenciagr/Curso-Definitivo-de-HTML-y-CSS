@@ -1,0 +1,22 @@
+/*Hermano cercano: a un p cercano a un h2 aplicarle el estilo*/
+/* h2 + p {
+    color: red;
+} */
+
+/* Hermano general: aplicar a p estilo si tiene un h2 en la misma linea*/
+
+/* h2 ~ p {
+    color: red;
+} */
+
+/*Hijo directo: a la etiqueta p que sea hijo directo de un div aplicarle el estilo*/
+
+/* div > p {
+    color: red;
+} */
+
+/*Descendiente: todas las etiquetas p que esten adentro de div se les aplica el estilo*/
+
+/* div p {
+    color: red;
+} */
